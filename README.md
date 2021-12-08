@@ -4,7 +4,7 @@
     - java, microservices architecture, cloud, security
     business:
     - payments , automotive
-- 🌱 I’m currently learning spring, git hub, android, kubernetes, docker
+- 🌱 I’m currently learning spring, git hub, android, kubernetes, docker, microservices, AGILE methods
 - 💞️ I’m looking to collaborate on retail digital channel
 - 📫 How to reach me : roberto.greco982@gmail.com
 
